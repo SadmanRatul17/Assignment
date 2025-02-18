@@ -1,5 +1,5 @@
 
-# Data Visualization and Matrix Operations in Python
+# Data Visualization and Matrix Operations: Exploring Randomness in Python
 
 
 
